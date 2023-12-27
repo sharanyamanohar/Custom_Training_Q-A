@@ -9,3 +9,7 @@ Evaluation Report-
 Evaluation refer this: https://github.com/databricks-academy/large-language-models
 
 ![Screenshot (256)](https://github.com/sharanyamanohar/Custom_Training_Q-A/assets/101973395/2ba0570d-5cc5-4877-ad0d-01b4fa99e0d6)
+
+Can do further with it:
+
+![Screenshot (257)](https://github.com/sharanyamanohar/Custom_Training_Q-A/assets/101973395/a9cdfe30-dd9f-4ab0-9834-ec39136bfa95)
